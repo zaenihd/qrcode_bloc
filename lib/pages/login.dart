@@ -3,7 +3,6 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:qrcode_bloc/bloc/auth/auth_bloc.dart';
-import 'package:qrcode_bloc/routes/router.dart';
 import 'package:qrcode_bloc/routes/router_name.dart';
 
 class LoginPage extends StatelessWidget {

@@ -3,4 +3,5 @@ class AppRoute{
   static const String productPage = "product";
   static const String detailProduct = "detailProduct";
   static const String login = "login";
+  static const String addProduct = "addProduct";
 }
